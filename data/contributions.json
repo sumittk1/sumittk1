@@ -1,22 +1,22 @@
 {
   "username": "sumittk1",
-  "generated_at": "2026-07-25T02:56:58Z",
+  "generated_at": "2026-07-26T03:23:19Z",
   "range": {
-    "start": "2025-07-20",
-    "end": "2026-07-25"
+    "start": "2025-07-27",
+    "end": "2026-07-26"
   },
-  "total_contributions": 198,
+  "total_contributions": 203,
   "active_days": 106,
   "avg_per_active_day": 1.9,
   "current_streak": {
-    "length": 21,
+    "length": 22,
     "start": "2026-07-04",
-    "end": "2026-07-24"
+    "end": "2026-07-25"
   },
   "longest_streak": {
-    "length": 21,
+    "length": 22,
     "start": "2026-07-04",
-    "end": "2026-07-24"
+    "end": "2026-07-25"
   },
   "best_day": {
     "date": "2026-07-08",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-07",
-      "total": 2
+      "total": 1
     },
     {
       "month": "2025-08",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-07",
-      "total": 66
+      "total": 72
     }
   ],
   "days": [
-    {
-      "date": "2025-07-20",
-      "count": 1
-    },
-    {
-      "date": "2025-07-21",
-      "count": 0
-    },
-    {
-      "date": "2025-07-22",
-      "count": 0
-    },
-    {
-      "date": "2025-07-23",
-      "count": 0
-    },
-    {
-      "date": "2025-07-24",
-      "count": 0
-    },
-    {
-      "date": "2025-07-25",
-      "count": 0
-    },
-    {
-      "date": "2025-07-26",
-      "count": 0
-    },
     {
       "date": "2025-07-27",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-07-25",
+      "count": 6
+    },
+    {
+      "date": "2026-07-26",
       "count": 0
     }
   ]

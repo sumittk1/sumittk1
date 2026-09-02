@@ -18,7 +18,7 @@
 **The best code is the code you didn't write yet... because it doesn't have bugs.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-idk-rust-five.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://idk-rust-five.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-sumittk1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumittk1)
+[![Instagram](https://img.shields.io/badge/Instagram-sumittk1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumitt_k1)
 
 <br>
 
